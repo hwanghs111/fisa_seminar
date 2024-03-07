@@ -1,2 +1,5 @@
 # fisa_seminar
-practice for Zero-downtime Deployment
+
+## 기술세미나 2차
+### 로드밸런싱을 통한 무중단 배포 실습
+
